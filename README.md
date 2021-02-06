@@ -1,5 +1,5 @@
 
-<html><code><span class="ascii" style="color: black; background: white;
+<html bgcolor="#eaeaea"><code><span class="ascii" style="color: black; background: white;
 display:inline-block;
 white-space:pre;
 letter-spacing:0;
