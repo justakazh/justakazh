@@ -14,6 +14,6 @@
 ⣿⣿⣧⣀⣿.........⣀⣰⣏⣘⣆⣀⠀⠀
 
 My Github is something I love.
-if you like it too please follow my github :)
+Dont forget to follow my github :)
 
 </pre>
