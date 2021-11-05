@@ -19,7 +19,7 @@ Dont forget to follow my github :)
 </pre>
 
 <br>
-More Information :
- - Blog : https://www.justakazh.net
- - Whoami : https://justakazh.github.io
- - Online Tools : https://tools.justakazh.net
+More Information :<br>
+ - Blog : https://www.justakazh.net<br>
+ - Whoami : https://justakazh.github.io<br>
+ - Online Tools : https://tools.justakazh.net<br>
