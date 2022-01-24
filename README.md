@@ -13,8 +13,8 @@
 ⣼⣿⠍⠉⣿⡭⠉⠙⢺⣇⣼⡏⠀⠀⠀⣄⢸⠀⠀⠀⠀⠀⠀
 ⣿⣿⣧⣀⣿.........⣀⣰⣏⣘⣆⣀⠀⠀
 
-My Github is something I love.
-Dont forget to follow my github :)
+
+I know my code is bad but that's what makes me feel alive
 
 </pre>
 
